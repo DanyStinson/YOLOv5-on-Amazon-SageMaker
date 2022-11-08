@@ -1,4 +1,4 @@
-## Label and prepare your dataset
+## Label and prepare your dataset with Amazon SageMaker Ground Truth
 
 In this section you will focus on preparing your dataset needed to train a custom YOLOv5 model.
 
